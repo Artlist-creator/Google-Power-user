@@ -6,10 +6,10 @@ In this course -- through a combination of video lectures, demonstrations, and h
 
 By the end of this course you’ll be able to:
 
-● navigate the Windows and Linux filesystems using a graphical user interface and command line interpreter </br>
-● set up users, groups, and permissions for account access </br>
-● install, configure, and remove software on the Windows and Linux operating systems </br>
-● configure disk partitions and filesystems </br>
-● understand how system processes work and how to manage them </br>
-● work with system logs and remote connection tools </br>
-● utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role </br>
+● Navigate the Windows and Linux filesystems using a graphical user interface and command line interpreter </br>
+● Set up users, groups, and permissions for account access </br>
+● Install, configure, and remove software on the Windows and Linux operating systems </br>
+● Configure disk partitions and filesystems </br>
+● Understand how system processes work and how to manage them </br>
+● Work with system logs and remote connection tools </br>
+● Utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role </br>
