@@ -88,3 +88,6 @@
     * -e: match pattern
     * --include and --exclude: include and exclude files in the search
     * --include-dir and --exclude-dir: include or exclude directories in the search
+    * -l -l, --files-with-matches
+       Suppress normal output; instead print the name of each input file from which output would normally
+       have been printed.  The scanning will stop on the first match.  (-l is specified by POSIX.)
