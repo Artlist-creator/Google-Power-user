@@ -29,6 +29,7 @@
 * tail
 * grep word/regex 'file_names'...
 * stderr === /dev/null
+* clear = ctrl + l
 
 ## Both (alias in windows)
 * pwd
