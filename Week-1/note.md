@@ -49,6 +49,8 @@
 * \>> append to file
 * \< stdin
 * | pipe to
+* \<< Document
+* \<<< String
 
 ### LINUX LAB
 
